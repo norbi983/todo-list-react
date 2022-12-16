@@ -10,9 +10,11 @@ https://norbi983.github.io/todo-list-react/
 
 - HTML
 - CSS
+- Normalize
 - BEM
+- Flex
+- Grid
 - React
-- js
 
 ## Available Scripts
 
