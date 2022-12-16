@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+    .section__header {
+        grid-template-columns: 1fr;
+    }
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+
+}
+
+.buttons__section {
+    color: rgb(5, 131, 131);
+    background: transparent;
+    margin: 0 0 0 20px;
+    border: none;
+    transition: color 1s;
+}
+
+.buttons__section:hover {
+    color: rgb(6, 93, 93);
+    background-color: transparent;
+    border: none;
+}
+
+.buttons__section:disabled {
+    color: rgb(155, 152, 152);
+}
+
+
