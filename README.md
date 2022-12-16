@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Demo
+
+https://norbi983.github.io/todo-list-react/
+
+### Technogies
+
+- HTML
+- CSS
+- BEM
+- React
+- js
+
 ## Available Scripts
 
 In the project directory, you can run:
