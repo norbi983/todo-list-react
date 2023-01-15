@@ -27,7 +27,7 @@
 }
 
 .tasks__button--remove:hover {
-    background: hsl(348, 70%, 51%);
+    background: hsl(0, 90%, 49%);
     transition: 1s;
 }
 
