@@ -12,7 +12,7 @@
 
 }
 
-.buttons__section {
+.buttons__button {
     color: rgb(5, 131, 131);
     background: transparent;
     margin: 0 0 0 20px;
@@ -20,13 +20,13 @@
     transition: color 1s;
 }
 
-.buttons__section:hover {
+.buttons__button:hover {
     color: rgb(6, 93, 93);
     background-color: transparent;
     border: none;
 }
 
-.buttons__section:disabled {
+.buttons__button:disabled {
     color: rgb(155, 152, 152);
 }
 
