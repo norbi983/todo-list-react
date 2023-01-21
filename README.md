@@ -6,7 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://norbi983.github.io/todo-list-react/
 
-### Technogies
+### How it works
+
+
+
+https://user-images.githubusercontent.com/114927587/213869618-a6a9fa54-cc3d-4750-8b52-9accf374d9ed.mp4
+
+
+
+### Technogies used in the homepage:
 
 - HTML
 - CSS
