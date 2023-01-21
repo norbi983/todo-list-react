@@ -8,8 +8,7 @@ https://norbi983.github.io/todo-list-react/
 
 ### How it works
 
-![bloggif_63cbec7fa89f8](https://user-images.githubusercontent.com/114927587/213869721-7d8b16ee-69ab-44da-8fd5-25c1fb171903.gif)
-
+![Lista-zadań-w-reakcie-Google-Chrome-2023-01-21-14-33-17](https://user-images.githubusercontent.com/114927587/213869867-11fc0c6c-5f49-41a6-8070-a3beeca2896a.gif)
 
 ### Technogies used in the homepage:
 
