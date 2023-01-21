@@ -8,10 +8,7 @@ https://norbi983.github.io/todo-list-react/
 
 ### How it works
 
-
-
-https://user-images.githubusercontent.com/114927587/213869618-a6a9fa54-cc3d-4750-8b52-9accf374d9ed.mp4
-
+![bloggif_63cbec7fa89f8](https://user-images.githubusercontent.com/114927587/213869721-7d8b16ee-69ab-44da-8fd5-25c1fb171903.gif)
 
 
 ### Technogies used in the homepage:
