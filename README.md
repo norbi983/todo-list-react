@@ -13,12 +13,16 @@ https://norbi983.github.io/todo-list-react/
 ### Technogies used in the homepage:
 
 - HTML
-- CSS
+- CSS Grid
 - Normalize
-- BEM
-- Flex
-- Grid
+- BEM convention
+- JavaScript
+- ES6+ features
+- Git
+- Markdown
+- Media queries
 - React
+- Creat-react-app
 
 ## Available Scripts
 
