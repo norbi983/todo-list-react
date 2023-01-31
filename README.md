@@ -1,4 +1,4 @@
-# Todo List
+# Todo List React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,15 +6,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://norbi983.github.io/todo-list-react/
 
-### Technogies
+### How it works
+
+![Lista-zadań-w-reakcie-Google-Chrome-2023-01-21-14-33-17](https://user-images.githubusercontent.com/114927587/213869867-11fc0c6c-5f49-41a6-8070-a3beeca2896a.gif)
+
+### Technogies used in the homepage:
 
 - HTML
-- CSS
+- CSS Grid
 - Normalize
-- BEM
-- Flex
-- Grid
+- BEM convention
+- JavaScript
+- ES6+ features
+- Git
+- Markdown
+- Media queries
 - React
+- Creat-react-app
 
 ## Available Scripts
 
