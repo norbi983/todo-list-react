@@ -5,18 +5,19 @@ import Buttons from "./Buttons";
 import Section from "./Section";
 import Header from "./Header";
 import Container from "./Container";
-import { toLocalStorage, fromLocalStorage } from "./Utils/LocalStorage";
+
+
+const fromLocalStorage = () =>
+  JSON.parse(localStorage.getItem("tasks")) || [];
 
 
 function App() {
   const [hideDone, setHideDone] = useState(false);
+  const [tasks, setTasks] = useState([ fromLocalStorage ]);
 
-  const [tasks, setTasks] = useState(() => {
-    return fromLocalStorage();
-  });
 
   useEffect(() => {
-    toLocalStorage();
+    localStorage.setItem("tasks", JSON.stringify(tasks));
   }, []);
 
   const toggleHideDone = () => {
