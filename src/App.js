@@ -13,12 +13,12 @@ const fromLocalStorage = () =>
 
 function App() {
   const [hideDone, setHideDone] = useState(false);
-  const [tasks, setTasks] = useState([ fromLocalStorage ]);
+  const [tasks, setTasks] = useState(fromLocalStorage());
 
 
   useEffect(() => {
     localStorage.setItem("tasks", JSON.stringify(tasks));
-  }, []);
+  }, [tasks]);
 
   const toggleHideDone = () => {
     setHideDone(hideDone => !hideDone);
