@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Description
+
+hello, this is my task list in react. The project was divided into components using hooks useState and useEffect. The task list has localStorage so every interaction is saved. I am waiting for your impressions.
+
 ### Demo
 
 https://norbi983.github.io/todo-list-react/
